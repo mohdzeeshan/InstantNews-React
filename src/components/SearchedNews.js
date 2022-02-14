@@ -3,11 +3,8 @@ import NewsItem from './NewsItem'
 import Spinner from './Spinner';
 import InfiniteScroll from "react-infinite-scroll-component";
 
-
-export class News extends Component {
-    capitalizeFirstLetter = (string) => {
-        return string.charAt(0).toUpperCase() + string.slice(1);
-    }
+export default class SearchedNews extends Component {
+   
     constructor(props) {
         super(props);
         this.state = {
@@ -16,12 +13,14 @@ export class News extends Component {
             page: 1,
             totalResults: 0
         }
-        document.title = `${this.capitalizeFirstLetter(this.props.category)} - Instant News `
+         document.title = `Search Results - Instant News `
     }
 
     fetchMoreData = async () => {
         this.setState({ page: this.state.page + 1 })
-        const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+       
+        const url = `https://newsapi.org/v2/everything?q=${this.props.searchedTerm}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+
         this.setState({ loading: true });
 
         let data = await fetch(url);
@@ -38,7 +37,7 @@ export class News extends Component {
 
     async getNews() {
         this.props.setProgress(10);
-        const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+        const url = `https://newsapi.org/v2/everything?q=${this.props.searchedTerm}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
         this.setState({ loading: true });
         this.props.setProgress(30);
 
@@ -58,7 +57,8 @@ export class News extends Component {
 
 
     }
- 
+   
+
     async componentDidMount() {
         this.getNews();
     }
@@ -66,7 +66,8 @@ export class News extends Component {
     render() {
         return (
             <
-            > <h1>{this.capitalizeFirstLetter(this.props.category)} - Top Headlines</h1>
+            > 
+            <h1>Search Results - Top Headlines</h1>
             {this.state.loading && <Spinner/> }
                 <InfiniteScroll 
                     dataLength={this.state.articles.length}
@@ -74,7 +75,6 @@ export class News extends Component {
                     hasMore={this.state.articles.length !== this.state.totalResults}
                     loader={<Spinner />}>
                         <div className="container" >
-
                         <div className="row">
                             {this.state.articles.map((element) => {
                                 return <div className="col-md-4" key={element.url}>
@@ -86,12 +86,8 @@ export class News extends Component {
                             })}
                         </div>
                         </div>
-                
                 </InfiniteScroll>
-                
-                </>  
+                </>
         )
     }
 }
-
-export default News
