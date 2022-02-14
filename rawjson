@@ -1,0 +1,138 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": 
+    [
+
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Mascarenhas",
+            "title": "Hopin’ into lessons from Peloton",
+            "description": "Welcome to Startups Weekly, a fresh human-first take on this week’s startup news and trends. To get this in your inbox, subscribe here. In the beginning of the pandemic, we learned which companies were unprepared to handle a cataclysmic event. Now, as the wor…",
+            "url": "https://techcrunch.com/2022/02/12/hopin-into-lessons-from-peloton/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1173715184-1.jpg?w=599",
+            "publishedAt": "2022-02-12T19:00:18Z",
+            "content": "Welcome to Startups Weekly, a fresh human-first take on this weeks startup news and trends. To get this in your inbox, subscribe here.\r\nIn the beginning of the pandemic, we learned which companies we… [+7200 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "This Week in Apps: Microsoft's app store principles, TikTok's new safety policies, Apple reveals 'Tap to Pay'",
+            "description": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record number of downloads and consumer spending across both …",
+            "url": "https://techcrunch.com/2022/02/12/this-week-in-apps-microsofts-app-store-principles-tiktoks-new-safety-policies-apple-reveals-tap-to-pay/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/this-week-in-apps-splash-2021.png?w=753",
+            "publishedAt": "2022-02-12T18:30:54Z",
+            "content": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.\r\nThe app industry continues to grow, with a … [+23565 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "Soon all blockchain companies will be crypto speculators",
+            "description": "Welcome to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday? Sign up here.  It’s a little hard to sit down and write up some jaunty no…",
+            "url": "https://techcrunch.com/2022/02/12/soon-all-blockchain-companies-will-be-crypto-speculators/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=533",
+            "publishedAt": "2022-02-12T18:10:29Z",
+            "content": "Welcome to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday? Sign up here. … [+3806 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "Here's how to stream the 2022 Super Bowl",
+            "description": "Super Bowl LVI is on Sunday, February 13 at 6:30pm ET/3:30pm PT where the Los Angeles Rams take on the Cincinnati Bengals. Here's where you can stream the game.",
+            "url": "https://techcrunch.com/2022/02/12/stream-2022-super-bowl-56-lvi/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1238283771.jpg?w=600",
+            "publishedAt": "2022-02-12T17:00:53Z",
+            "content": "Super Bowl LVI kicks off on Sunday, February 13 at 6:30pm ET/3:30pm PT, with the Los Angeles Rams facing off against the Cincinnati Bengals in Inglewood, California. The game will be aired on NBC so … [+2530 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Mascarenhas",
+            "title": "It’s not a startup reckoning, it’s a recorrection",
+            "description": "In the beginning of the pandemic, we learned which companies were unprepared to handle a cataclysmic event. Now, as the world slowly starts to reopen in light of vaccinations, we’re learning which companies that soared during the pandemic also lost their disc…",
+            "url": "https://techcrunch.com/2022/02/12/its-not-a-startup-reckoning-its-a-recorrection/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-460689217.jpg?w=582",
+            "publishedAt": "2022-02-12T14:00:37Z",
+            "content": "In the beginning of the pandemic, we learned which companies were unprepared to handle a cataclysmic event. Now, as the world slowly starts to reopen in light of vaccinations, were learning which com… [+1036 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Carly Page",
+            "title": "Why are cybersecurity asset management startups so hot right now?",
+            "description": "The proliferation of new asset types, along with the widespread shift to remote work, has resulted in assets becoming more highly distributed, making them even more difficult to manage and inventory.",
+            "url": "https://techcrunch.com/2022/02/11/why-are-internet-asset-startups-so-hot-right-now/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/scanning-computer-group.jpg?w=711",
+            "publishedAt": "2022-02-12T00:12:37Z",
+            "content": "In the world of cybersecurity, you cant secure something if you dont know its there.\r\nEnter cybersecurity asset management, an admittedly unsexy fragment of the booming industry that investors have s… [+2660 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "Daily Crunch: At SpaceX's Starship update event, Musk offers updates on plans, progress",
+            "description": "Hello and welcome to Daily Crunch for Friday, February 11, 2022! Today we’re talking big rockets, self-driving cars, tech stocks getting rekt, and more. It’s a fun, and good mix of news. Enjoy! – Alex The TechCrunch Top 3 Rocketship, or big vapor phallus? At …",
+            "url": "https://techcrunch.com/2022/02/11/daily-crunch-at-spacexs-starship-update-event-musk-offers-updates-on-plans-progress/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/starship-launch-animation.jpg?w=633",
+            "publishedAt": "2022-02-11T23:15:20Z",
+            "content": "Hello and welcome to Daily Crunch for Friday, February 11, 2022! Today were talking big rockets, self-driving cars, tech stocks getting rekt, and more. Its a fun, and good mix of news. Enjoy! Alex\r\nT… [+4174 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "John Biggs",
+            "title": "What does a real economist think of cryptocurrencies?",
+            "description": "Tyler Cowen is an economist and writer who co-founded the popular blog, MarginalRevolution. A professor at George Mason University, Cowen was named one of the Economist’s top 36 economists who were most influential over the past decade. He’s a popular thinker…",
+            "url": "https://techcrunch.com/2022/02/11/what-does-a-real-economist-think-of-cryptocurrencies/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1319220428.jpg?w=711",
+            "publishedAt": "2022-02-11T22:57:59Z",
+            "content": "Tyler Cowen is an economist and writer who co-founded the popular blog, MarginalRevolution. A professor at George Mason University, Cowen was named one of the Economist’s top 36 economists who were m… [+7309 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mary Ann Azevedo",
+            "title": "Citing 'changing real estate market,' Utah-based Homie lays off one-third of its staff",
+            "description": "Utah-based proptech Homie has laid off one-third of its staff, according to reports. Hunter Richardson, former director of talent advisory and acquisition at Homie, posted on LinkedIn that he was among the one-third affected but declined to comment on his bei…",
+            "url": "https://techcrunch.com/2022/02/11/homie-lays-off-1-3-of-its-staff/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1317958548.jpg?w=604",
+            "publishedAt": "2022-02-11T22:30:59Z",
+            "content": "Utah-based proptech Homie has laid off one-third of its staff, according to reports.\r\nHomie was founded in 2015, and according to its CEO and co-founder Johnny Hannas LinkedIn page, it most recently … [+2982 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amit Anand",
+            "title": "Startups are evolving to manage growth alongside profitability",
+            "description": "Tech firms around the world are slowly changing how they function to address concerns around their resilience and sustainability. Here are the key trends, per Jungle Ventures",
+            "url": "https://techcrunch.com/2022/02/11/startups-are-evolving-to-manage-growth-alongside-profitability/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-200572510-001.jpg?w=600",
+            "publishedAt": "2022-02-11T21:45:06Z",
+            "content": "More posts by this contributor\r\nIt was only a matter of time.\r\nAs more tech companies go public, the necessary disclosure has meant that with access to more information on the financial condition of … [+2351 chars]"
+        }
+    ]
+}
